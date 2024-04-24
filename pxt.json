@@ -11,7 +11,9 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "wlkata.ts"
+        "wlkata.ts",
+        "language/zh-hans.json",
+        "language/en.json"
     ],
     "testFiles": [
         "test.ts"
