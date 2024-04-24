@@ -114,7 +114,7 @@ namespace wlkata {
     }
     
     //% weight=100 blockGap=8
-    //%blockId=E4_senMed block="E4 Robot UART Setup|TX: %XT|RX: %RX"   
+    //%blockId=E4_uart block="E4 Robot UART Setup|TX: %XT|RX: %RX"   
     //%TX.defl=SerialPin.P0 RX.defl=SerialPin.P1
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=4
     export function E4_uart(TX: SerialPin, RX: SerialPin): void {
