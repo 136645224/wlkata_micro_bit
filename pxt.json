@@ -9,8 +9,10 @@
     },
     "files": [
         "README.md",
+        "main.ts",
+        "main.blocks",
         "wlkata.ts",
-        "_locales/fr/Wlkata-strings.json",
+        "_locales/en/Wlkata-strings.json",
         "_locales/zh-cn/Wlkata-strings.json",
         "_locales/zh-tw/Wlkata-strings.json"
 

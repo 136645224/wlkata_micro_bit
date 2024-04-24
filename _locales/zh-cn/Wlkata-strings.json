@@ -1,4 +1,6 @@
 {
+  
+  "wlkata.E4_uart|block": "E4机械臂 UART 初始化|TX: %XT|RX: %RX",
   "wlkata.E4_sendMsg|block": "E4机械臂透传|发送 %text",
   "wlkata.E4_homing|block": "E4机械臂回零",
   "wlkata.E4_reset|block": "E4机械臂重启",  

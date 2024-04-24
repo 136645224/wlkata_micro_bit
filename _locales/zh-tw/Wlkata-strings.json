@@ -1,4 +1,5 @@
 {
+  "wlkata.E4_uart|block": "E4機械臂 UART 初始化|TX: %XT|RX: %RX",
   "wlkata.E4_sendMsg|block": "E4機械臂透傳|發送 %text",
   "wlkata.E4_homing|block": "E4機械臂歸零",
   "wlkata.E4_reset|block": "E4機械臂重啟",  
