@@ -112,9 +112,9 @@ namespace wlkata {
     function delimiters(del: Delimiters): string {
         return String.fromCharCode(del as number);
     }
+    
     //% weight=100 blockGap=8
     //%blockId=E4_senMed block="E4 Robot UART Setup|TX: %XT|RX: %RX"   
-    //% name.fieldEditor="gridpicker" name.fieldOptions.columns=4
     //%TX.defl=SerialPin.P0 RX.defl=SerialPin.P1
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=4
     export function E4_uart(TX: SerialPin, RX: SerialPin): void {
