@@ -9,7 +9,10 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.blocks",
+        "main.ts",
+        "wlkata.ts"
+
     ],
     "testFiles": [
         "test.ts"
